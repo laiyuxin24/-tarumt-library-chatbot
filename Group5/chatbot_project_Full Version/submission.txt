@@ -6,6 +6,7 @@ Platform: Google Dialogflow Essentials (ES)
 ProjectID: tarumtlibraryfaqbot-dpyr
 Console URL: https://dialogflow.clod.google.com/
 Login Email: jingyun4134@gmail.com
+***Password: The account credentials (account password) will be provided privately, as this GitHub repository is publicly accessible.
 
 Webhook (deployed on Render): 
 URL: https://library-chatbot-webhook.onrender.com
