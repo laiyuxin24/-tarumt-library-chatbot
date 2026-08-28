@@ -1,0 +1,493 @@
+intent,question,answer
+borrow_book,how do i borrow a book,"To borrow a book, bring your student ID to the Service Counter on Level G, present the book you want to borrow, and the librarian will scan and issue it to you."
+borrow_book,what is the process to borrow a book,"To borrow a book, bring your student ID to the Service Counter on Level G, present the book you want to borrow, and the librarian will scan and issue it to you."
+borrow_book,how can i loan a book from the library,"To borrow a book, bring your student ID to the Service Counter on Level G, present the book you want to borrow, and the librarian will scan and issue it to you."
+borrow_book,steps to borrow a book,"To borrow a book, bring your student ID to the Service Counter on Level G, present the book you want to borrow, and the librarian will scan and issue it to you."
+borrow_book,how does book borrowing work here,"To borrow a book, bring your student ID to the Service Counter on Level G, present the book you want to borrow, and the librarian will scan and issue it to you."
+borrow_book,can you explain how to borrow books,"To borrow a book, bring your student ID to the Service Counter on Level G, present the book you want to borrow, and the librarian will scan and issue it to you."
+borrow_book,how do i check out a book,"To borrow a book, bring your student ID to the Service Counter on Level G, present the book you want to borrow, and the librarian will scan and issue it to you."
+borrow_book,what do i need to do to borrow a book,"To borrow a book, bring your student ID to the Service Counter on Level G, present the book you want to borrow, and the librarian will scan and issue it to you."
+borrow_book,how to loan out a book,"To borrow a book, bring your student ID to the Service Counter on Level G, present the book you want to borrow, and the librarian will scan and issue it to you."
+borrow_book,explain the borrowing process pls,"To borrow a book, bring your student ID to the Service Counter on Level G, present the book you want to borrow, and the librarian will scan and issue it to you."
+borrow_book,how do students borrow books here,"To borrow a book, bring your student ID to the Service Counter on Level G, present the book you want to borrow, and the librarian will scan and issue it to you."
+borrow_book,what's the procedure for borrowing books,"To borrow a book, bring your student ID to the Service Counter on Level G, present the book you want to borrow, and the librarian will scan and issue it to you."
+borrow_quantity,how many books can i borrow,You can borrow up to 5 books at a time as a student.
+borrow_quantity,what's the max number of books i can loan,You can borrow up to 5 books at a time as a student.
+borrow_quantity,is there a limit on how many books i can borrow,You can borrow up to 5 books at a time as a student.
+borrow_quantity,how many books am i allowed to borrow at once,You can borrow up to 5 books at a time as a student.
+borrow_quantity,maximum book borrowing limit for students,You can borrow up to 5 books at a time as a student.
+borrow_quantity,can i borrow more than 5 books,You can borrow up to 5 books at a time as a student.
+borrow_quantity,how many items can i check out,You can borrow up to 5 books at a time as a student.
+borrow_quantity,what's the borrowing limit here,You can borrow up to 5 books at a time as a student.
+borrow_quantity,how many books allowed per student,You can borrow up to 5 books at a time as a student.
+borrow_quantity,is there a cap on books i can borrow,You can borrow up to 5 books at a time as a student.
+borrow_quantity,max books i can take out at once,You can borrow up to 5 books at a time as a student.
+borrow_quantity,how many titles can i borrow simultaneously,You can borrow up to 5 books at a time as a student.
+borrow_location,where do i borrow my books,You need to borrow books at the Service Counter on Level G.
+borrow_location,where can i borrow a book,You need to borrow books at the Service Counter on Level G.
+borrow_location,where is the book borrow area,You need to borrow books at the Service Counter on Level G.
+borrow_location,where can i borrow books in the library,You need to borrow books at the Service Counter on Level G.
+borrow_location,which counter do i borrow books to,You need to borrow books at the Service Counter on Level G.
+borrow_location,where is the borrow point for books,You need to borrow books at the Service Counter on Level G.
+borrow_location,where do i go to borrow library books,You need to borrow books at the Service Counter on Level G.
+borrow_location,where is the counter to borrow books,You need to borrow books at the Service Counter on Level G.
+borrow_location,where exactly do i borrow books from,You need to borrow books at the Service Counter on Level G.
+borrow_location,where's the borrow section located,You need to borrow books at the Service Counter on Level G.
+borrow_location,which counter to borrow books,You need to borrow books at the Service Counter on Level G.
+borrow_location,which area is for book borrows,You need to borrow books at the Service Counter on Level G.
+borrow_requirement,what do i need to bring to borrow a book, You must bring your student ID card then only you can borrow a book.
+borrow_requirement,do i need my student id to borrow books, You must bring your student ID card then only you can borrow a book.
+borrow_requirement,what's required to borrow a book here, You must bring your student ID card then only you can borrow a book.
+borrow_requirement,do i need any documents to borrow a book, You must bring your student ID card then only you can borrow a book.
+borrow_requirement,what identification do i need to borrow, You must bring your student ID card then only you can borrow a book.
+borrow_requirement,is student id required for borrowing, You must bring your student ID card then only you can borrow a book.
+borrow_requirement,can i just borrow the book without student id, You must bring your student ID card then only you can borrow a book.
+borrow_requirement,what do i need for borrow a book, You must bring your student ID card then only you can borrow a book.
+borrow_requirement,is anythings require for borrow a book, You must bring your student ID card then only you can borrow a book.
+borrow_requirement,how to borrow a book, You must bring your student ID card then only you can borrow a book.
+borrow_requirement,what items do i need to bring to loan a book, You must bring your student ID card then only you can borrow a book.
+borrow_requirement,requirements to borrow a book from library, You must bring your student ID card then only you can borrow a book.
+return_location,where do i return my books,You can return your books at the Service Counter or the Book Return Machine near the library entrance.
+return_location,where can i return a borrowed book,You can return your books at the Service Counter or the Book Return Machine near the library entrance.
+return_location,where is the book return area,You can return your books at the Service Counter or the Book Return Machine near the library entrance.
+return_location,where should i drop off my books,You can return your books at the Service Counter or the Book Return Machine near the library entrance.
+return_location,which counter do i return books to,You can return your books at the Service Counter or the Book Return Machine near the library entrance.
+return_location,where is the return point for books,You can return your books at the Service Counter or the Book Return Machine near the library entrance.
+return_location,where do i go to return library books,You can return your books at the Service Counter or the Book Return Machine near the library entrance.
+return_location,location to return borrowed items,You can return your books at the Service Counter or the Book Return Machine near the library entrance.
+return_location,where can i give back my book,You can return your books at the Service Counter or the Book Return Machine near the library entrance.
+return_location,where's the return section located,You can return your books at the Service Counter or the Book Return Machine near the library entrance.
+return_location,where do i submit my returned books,You can return your books at the Service Counter or the Book Return Machine near the library entrance.
+return_location,which area is for book returns,You can return your books at the Service Counter or the Book Return Machine near the library entrance.
+counter_return,can i return book at the counter,"Yes, you can return your book at the Service Counter on Level G."
+counter_return,is counter return allowed,"Yes, you can return your book at the Service Counter on Level G."
+counter_return,can i return my book to a staff member directly,"Yes, you can return your book at the Service Counter on Level G."
+counter_return,am i allowed to return books at the service counter,"Yes, you can return your book at the Service Counter on Level G."
+counter_return,can i hand in my book at the counter,"Yes, you can return your book at the Service Counter on Level G."
+counter_return,is it possible to return a book to staff,"Yes, you can return your book at the Service Counter on Level G."
+counter_return,can i return via the circulation counter,"Yes, you can return your book at the Service Counter on Level G."
+counter_return,does the counter accept book returns,"Yes, you can return your book at the Service Counter on Level G."
+counter_return,can i return my book in person at the counter,"Yes, you can return your book at the Service Counter on Level G."
+counter_return,is counter return an option here,"Yes, you can return your book at the Service Counter on Level G."
+counter_return,can staff accept my book return at the counter,"Yes, you can return your book at the Service Counter on Level G."
+counter_return,am i able to return books directly to a librarian,"Yes, you can return your book at the Service Counter on Level G."
+machine_return,can i use the machine to return books,"Yes, you can also return your book using the self-service Book Return Machine located near the library entrance."
+machine_return,is there a self return machine,"Yes, you can also return your book using the self-service Book Return Machine located near the library entrance."
+machine_return,can i return books through the machine,"Yes, you can also return your book using the self-service Book Return Machine located near the library entrance."
+machine_return,does the library have an automated return machine,"Yes, you can also return your book using the self-service Book Return Machine located near the library entrance."
+machine_return,where is the book return machine,"Yes, you can also return your book using the self-service Book Return Machine located near the library entrance."
+machine_return,can i use the rfid machine to return books,"Yes, you can also return your book using the self-service Book Return Machine located near the library entrance."
+machine_return,is there a drop box machine for returns,"Yes, you can also return your book using the self-service Book Return Machine located near the library entrance."
+machine_return,can i return my book without going to the counter,"Yes, you can also return your book using the self-service Book Return Machine located near the library entrance."
+machine_return,is self service return available,"Yes, you can also return your book using the self-service Book Return Machine located near the library entrance."
+machine_return,how does the return machine work,"Yes, you can also return your book using the self-service Book Return Machine located near the library entrance."
+machine_return,can i just scan my book at the machine to return it,"Yes, you can also return your book using the self-service Book Return Machine located near the library entrance."
+machine_return,is there an automatic book drop machine,"Yes, you can also return your book using the self-service Book Return Machine located near the library entrance."
+renew_location,where can i renew my book,You can renew your book online at Service Counter on Level G.
+renew_location,where do i go to renew a book,You can renew your book online at Service Counter on Level G.
+renew_location,can i renew my book online,You can renew your book online at Service Counter on Level G.
+renew_location,where should i renew my borrowed book,You can renew your book online at Service Counter on Level G.
+renew_location,is there an online option to renew books,You can renew your book online at Service Counter on Level G.
+renew_location,where do i extend my book loan,You can renew your book online at Service Counter on Level G.
+renew_location,where can i do book renewal,You can renew your book online at Service Counter on Level G.
+renew_location,can renewal be done outside the library,You can renew your book online at Service Counter on Level G.
+renew_location,where is renewal handled,You can renew your book online at Service Counter on Level G.
+renew_location,do i have to come to the library to renew,You can renew your book online at Service Counter on Level G.
+renew_location,where can i extend my loan period,You can renew your book online at Service Counter on Level G.
+renew_location,renewal location for borrowed books,You can renew your book online at Service Counter on Level G.
+renew_day,how many days can i renew my book for,You can renew your book for an additional 14 days.
+renew_day,how long is the renewal period,You can renew your book for an additional 14 days.
+renew_day,how many extra days do i get when i renew,You can renew your book for an additional 14 days.
+renew_day,what's the renewal duration,You can renew your book for an additional 14 days.
+renew_day,how many days does renewal add,You can renew your book for an additional 14 days.
+renew_day,how long can i extend my book loan,You can renew your book for an additional 14 days.
+renew_day,how many additional days for renewal,You can renew your book for an additional 14 days.
+renew_day,renewal period is how many days,You can renew your book for an additional 14 days.
+renew_day,how much longer can i keep the book after renewing,You can renew your book for an additional 14 days.
+renew_day,how many days extension do i get,You can renew your book for an additional 14 days.
+renew_day,what's the extended loan period after renewal,You can renew your book for an additional 14 days.
+renew_day,how far can i push back the due date by renewing,You can renew your book for an additional 14 days.
+renew_action,how do i renew my book,You must go to the Service Counter on Level G to renew a book.
+renew_action,what's the process to renew a book,You must go to the Service Counter on Level G to renew a book.
+renew_action,how can i extend my book loan,You must go to the Service Counter on Level G to renew a book.
+renew_action,steps to renew a borrowed book,You must go to the Service Counter on Level G to renew a book.
+renew_action,how do i renew online,You must go to the Service Counter on Level G to renew a book.
+renew_action,how to extend the due date of my book,You must go to the Service Counter on Level G to renew a book.
+renew_action,explain how renewal works,You must go to the Service Counter on Level G to renew a book.
+renew_action,how do i click renew on the portal,You must go to the Service Counter on Level G to renew a book.
+renew_action,what do i click to renew my loan,You must go to the Service Counter on Level G to renew a book.
+renew_action,how to renew a book through my account,You must go to the Service Counter on Level G to renew a book.
+renew_action,guide me through renewing a book,You must go to the Service Counter on Level G to renew a book.
+renew_action,how does the renewal process work,You must go to the Service Counter on Level G to renew a book.
+check_fine,how do i check my fine,You can check your fine by logging into the library portal and viewing the 'Fines' section under your account.
+check_fine,where can i see my outstanding fine,You can check your fine by logging into the library portal and viewing the 'Fines' section under your account.
+check_fine,how do i know if i have a fine,You can check your fine by logging into the library portal and viewing the 'Fines' section under your account.
+check_fine,how to check if i owe any fines,You can check your fine by logging into the library portal and viewing the 'Fines' section under your account.
+check_fine,where do i view my fine amount,You can check your fine by logging into the library portal and viewing the 'Fines' section under your account.
+check_fine,how can i see my total fine balance,You can check your fine by logging into the library portal and viewing the 'Fines' section under your account.
+check_fine,how do i check for overdue charges,You can check your fine by logging into the library portal and viewing the 'Fines' section under your account.
+check_fine,is there a way to check my fines online,You can check your fine by logging into the library portal and viewing the 'Fines' section under your account.
+check_fine,where is the fine information shown,You can check your fine by logging into the library portal and viewing the 'Fines' section under your account.
+check_fine,how do i find out my fine amount,You can check your fine by logging into the library portal and viewing the 'Fines' section under your account.
+check_fine,how can i view my account fines,You can check your fine by logging into the library portal and viewing the 'Fines' section under your account.
+check_fine,where to check outstanding fine balance,You can check your fine by logging into the library portal and viewing the 'Fines' section under your account.
+late_fine,how much is the late fine,The late return fine is RM0.50 per day per book.
+late_fine,what's the penalty for returning a book late,The late return fine is RM0.50 per day per book.
+late_fine,how much do i pay for overdue books,The late return fine is RM0.50 per day per book.
+late_fine,what's the fine amount for late return,The late return fine is RM0.50 per day per book.
+late_fine,how much is charged per day for late books,The late return fine is RM0.50 per day per book.
+late_fine,what is the daily late fee,The late return fine is RM0.50 per day per book.
+late_fine,how much fine per day for overdue items,The late return fine is RM0.50 per day per book.
+late_fine,what's the cost of returning a book late,The late return fine is RM0.50 per day per book.
+late_fine,how much is the overdue penalty,The late return fine is RM0.50 per day per book.
+late_fine,what's the rate for late returns,The late return fine is RM0.50 per day per book.
+late_fine,how much do i owe per day if book is late,The late return fine is RM0.50 per day per book.
+late_fine,fine amount for each day overdue,The late return fine is RM0.50 per day per book.
+lost_fine,how much do i pay if i lose a book,"If you lose a book, you will need to pay the full replacement cost of the book plus a RM20 processing fee."
+lost_fine,what's the fine for losing a book,"If you lose a book, you will need to pay the full replacement cost of the book plus a RM20 processing fee."
+lost_fine,what happens if i lost my borrowed book,"If you lose a book, you will need to pay the full replacement cost of the book plus a RM20 processing fee."
+lost_fine,how much is the penalty for a lost book,"If you lose a book, you will need to pay the full replacement cost of the book plus a RM20 processing fee."
+lost_fine,what do i need to pay if the book is lost,"If you lose a book, you will need to pay the full replacement cost of the book plus a RM20 processing fee."
+lost_fine,cost of replacing a lost library book,"If you lose a book, you will need to pay the full replacement cost of the book plus a RM20 processing fee."
+lost_fine,what's the charge for a missing book,"If you lose a book, you will need to pay the full replacement cost of the book plus a RM20 processing fee."
+lost_fine,how much does a lost book cost me,"If you lose a book, you will need to pay the full replacement cost of the book plus a RM20 processing fee."
+lost_fine,penalty amount for losing library items,"If you lose a book, you will need to pay the full replacement cost of the book plus a RM20 processing fee."
+lost_fine,what fee applies if i can't find my book,"If you lose a book, you will need to pay the full replacement cost of the book plus a RM20 processing fee."
+lost_fine,how much to compensate for a lost book,"If you lose a book, you will need to pay the full replacement cost of the book plus a RM20 processing fee."
+lost_fine,what's the replacement fee for lost books,"If you lose a book, you will need to pay the full replacement cost of the book plus a RM20 processing fee."
+fine_payment_method,what payment method do you accept for fines,You can only pay your fine by cash at the Service Counter on Level G.
+fine_payment_method,how can i pay my fine,You can only pay your fine by cash at the Service Counter on Level G.
+fine_payment_method,what way can i pay my outstanding fine,You can only pay your fine by cash at the Service Counter on Level G.
+fine_payment_method,what payment options are available for fines,You can only pay your fine by cash at the Service Counter on Level G.
+fine_payment_method,how do i settle my fine payment,You can only pay your fine by cash at the Service Counter on Level G.
+fine_payment_method,what methods can i use to pay my fine,You can only pay your fine by cash at the Service Counter on Level G.
+fine_payment_method,how do i clear my fine amount,You can only pay your fine by cash at the Service Counter on Level G.
+fine_payment_method,what's accepted for fine payment,You can only pay your fine by cash at the Service Counter on Level G.
+fine_payment_method,how are fines paid here,You can only pay your fine by cash at the Service Counter on Level G.
+fine_payment_method,what form of payment is accepted for fines,You can only pay your fine by cash at the Service Counter on Level G.
+fine_payment_method,how do i pay off my fine balance,You can only pay your fine by cash at the Service Counter on Level G.
+fine_payment_method,what payment types do you accept for fines,You can only pay your fine by cash at the Service Counter on Level G.
+fine_payment_cashless,can i pay my fine online,"No, we do not accept online or cashless payment. Fines can only be paid in cash at the counter."
+fine_payment_cashless,do you accept card payment for fines,"No, we do not accept online or cashless payment. Fines can only be paid in cash at the counter."
+fine_payment_cashless,is there cashless payment for fines,"No, we do not accept online or cashless payment. Fines can only be paid in cash at the counter."
+fine_payment_cashless,can i use an ewallet to pay my fine,"No, we do not accept online or cashless payment. Fines can only be paid in cash at the counter."
+fine_payment_cashless,can i pay fine through online banking,"No, we do not accept online or cashless payment. Fines can only be paid in cash at the counter."
+fine_payment_cashless,do you accept touch n go for fines,"No, we do not accept online or cashless payment. Fines can only be paid in cash at the counter."
+fine_payment_cashless,is online transfer accepted for fine payment,"No, we do not accept online or cashless payment. Fines can only be paid in cash at the counter."
+fine_payment_cashless,can i pay my fine with a debit card,"No, we do not accept online or cashless payment. Fines can only be paid in cash at the counter."
+fine_payment_cashless,is there a cashless option for fines,"No, we do not accept online or cashless payment. Fines can only be paid in cash at the counter."
+fine_payment_cashless,can i settle my fine via mobile payment,"No, we do not accept online or cashless payment. Fines can only be paid in cash at the counter."
+fine_payment_cashless,do you accept credit card for fine payment,"No, we do not accept online or cashless payment. Fines can only be paid in cash at the counter."
+fine_payment_cashless,can i pay fine using duitnow or grabpay,"No, we do not accept online or cashless payment. Fines can only be paid in cash at the counter."
+library_hour,what are the library operating hours,The library normally operates from 8:30 AM to 9:00 PM on weekdays and from 9:00 AM to 5:00 PM on Saturdays. Would you like to know the operating hours during the examination period or semester holidays? Please let me know.
+library_hour,what time does the library open,The library normally operates from 8:30 AM to 9:00 PM on weekdays and from 9:00 AM to 5:00 PM on Saturdays. Would you like to know the operating hours during the examination period or semester holidays? Please let me know.
+library_hour,what time does the library close,The library normally operates from 8:30 AM to 9:00 PM on weekdays and from 9:00 AM to 5:00 PM on Saturdays. Would you like to know the operating hours during the examination period or semester holidays? Please let me know.
+library_hour,what are your opening hours,The library normally operates from 8:30 AM to 9:00 PM on weekdays and from 9:00 AM to 5:00 PM on Saturdays. Would you like to know the operating hours during the examination period or semester holidays? Please let me know.
+library_hour,when is the library open,The library normally operates from 8:30 AM to 9:00 PM on weekdays and from 9:00 AM to 5:00 PM on Saturdays. Would you like to know the operating hours during the examination period or semester holidays? Please let me know.
+library_hour,what hours is the library operating,The library normally operates from 8:30 AM to 9:00 PM on weekdays and from 9:00 AM to 5:00 PM on Saturdays. Would you like to know the operating hours during the examination period or semester holidays? Please let me know.
+library_hour,what time can i visit the library,The library normally operates from 8:30 AM to 9:00 PM on weekdays and from 9:00 AM to 5:00 PM on Saturdays. Would you like to know the operating hours during the examination period or semester holidays? Please let me know.
+library_hour,library hours pls,The library normally operates from 8:30 AM to 9:00 PM on weekdays and from 9:00 AM to 5:00 PM on Saturdays. Would you like to know the operating hours during the examination period or semester holidays? Please let me know.
+library_hour,when does the library open and close,The library normally operates from 8:30 AM to 9:00 PM on weekdays and from 9:00 AM to 5:00 PM on Saturdays. Would you like to know the operating hours during the examination period or semester holidays? Please let me know.
+library_hour,what's the library's operating schedule,The library normally operates from 8:30 AM to 9:00 PM on weekdays and from 9:00 AM to 5:00 PM on Saturdays. Would you like to know the operating hours during the examination period or semester holidays? Please let me know.
+library_hour,tell me the library's opening times,The library normally operates from 8:30 AM to 9:00 PM on weekdays and from 9:00 AM to 5:00 PM on Saturdays. Would you like to know the operating hours during the examination period or semester holidays? Please let me know.
+library_hour,what time is the library open until,The library normally operates from 8:30 AM to 9:00 PM on weekdays and from 9:00 AM to 5:00 PM on Saturdays. Would you like to know the operating hours during the examination period or semester holidays? Please let me know.
+exam_period,what are the library operating hours on exam period,"During examination periods, the library operates from 8:30 AM to 9:00 PM on weekdays, 8:30 AM to 5:00 PM on Saturdays, and 9:00 AM to 5:00 PM on Sundays."
+exam_period,what time does the library open on exam period,"During examination periods, the library operates from 8:30 AM to 9:00 PM on weekdays, 8:30 AM to 5:00 PM on Saturdays, and 9:00 AM to 5:00 PM on Sundays."
+exam_period,what time does the library close on exam period,"During examination periods, the library operates from 8:30 AM to 9:00 PM on weekdays, 8:30 AM to 5:00 PM on Saturdays, and 9:00 AM to 5:00 PM on Sundays."
+exam_period,what are your opening hours on exam period,"During examination periods, the library operates from 8:30 AM to 9:00 PM on weekdays, 8:30 AM to 5:00 PM on Saturdays, and 9:00 AM to 5:00 PM on Sundays."
+exam_period,when is the library open on exam period,"During examination periods, the library operates from 8:30 AM to 9:00 PM on weekdays, 8:30 AM to 5:00 PM on Saturdays, and 9:00 AM to 5:00 PM on Sundays."
+exam_period,what hours is the library operating on exam period,"During examination periods, the library operates from 8:30 AM to 9:00 PM on weekdays, 8:30 AM to 5:00 PM on Saturdays, and 9:00 AM to 5:00 PM on Sundays."
+exam_period,what time can i visit the library on exam period,"During examination periods, the library operates from 8:30 AM to 9:00 PM on weekdays, 8:30 AM to 5:00 PM on Saturdays, and 9:00 AM to 5:00 PM on Sundays."
+exam_period,library exam period hours pls,"During examination periods, the library operates from 8:30 AM to 9:00 PM on weekdays, 8:30 AM to 5:00 PM on Saturdays, and 9:00 AM to 5:00 PM on Sundays."
+exam_period,when does the library open and close on exam period,"During examination periods, the library operates from 8:30 AM to 9:00 PM on weekdays, 8:30 AM to 5:00 PM on Saturdays, and 9:00 AM to 5:00 PM on Sundays."
+exam_period,what's the library's operating schedule on exam period,"During examination periods, the library operates from 8:30 AM to 9:00 PM on weekdays, 8:30 AM to 5:00 PM on Saturdays, and 9:00 AM to 5:00 PM on Sundays."
+exam_period,tell me the library's opening times on exam period,"During examination periods, the library operates from 8:30 AM to 9:00 PM on weekdays, 8:30 AM to 5:00 PM on Saturdays, and 9:00 AM to 5:00 PM on Sundays."
+exam_period,what time is the library open until on exam period,"During examination periods, the library operates from 8:30 AM to 9:00 PM on weekdays, 8:30 AM to 5:00 PM on Saturdays, and 9:00 AM to 5:00 PM on Sundays."
+operating_weekend,is the library open on weekends,The library is only open on Saturday during the weekend. Sunday is closed.
+operating_weekend,does the library operate on weekends,The library is only open on Saturday during the weekend. Sunday is closed.
+operating_weekend,what are the weekend operating hours,The library is only open on Saturday during the weekend. Sunday is closed.
+operating_weekend,is the library open on saturday and sunday,The library is only open on Saturday during the weekend. Sunday is closed.
+operating_weekend,can i visit the library over the weekend,The library is only open on Saturday during the weekend. Sunday is closed.
+operating_weekend,does the library open during the weekend,The library is only open on Saturday during the weekend. Sunday is closed.
+operating_weekend,is the library available on weekends,The library is only open on Saturday during the weekend. Sunday is closed.
+operating_weekend,what days is the library open on weekends,The library is only open on Saturday during the weekend. Sunday is closed.
+operating_weekend,is weekend access available at the library,The library is only open on Saturday during the weekend. Sunday is closed.
+operating_weekend,does the library close during weekends,The library is only open on Saturday during the weekend. Sunday is closed.
+operating_weekend,weekend hours for the library,The library is only open on Saturday during the weekend. Sunday is closed.
+operating_weekend,is the library open saturday and sunday,The library is only open on Saturday during the weekend. Sunday is closed.
+closure_sunday,is the library open on sunday,"No, the library is closed on Sunday."
+closure_sunday,does the library operate on sunday,"No, the library is closed on Sunday."
+closure_sunday,can i visit the library on sunday,"No, the library is closed on Sunday."
+closure_sunday,is sunday an operating day for the library,"No, the library is closed on Sunday."
+closure_sunday,is the library closed on sunday,"No, the library is closed on Sunday."
+closure_sunday,can i study in the library on sunday,"No, the library is closed on Sunday."
+closure_sunday,is the library available on sunday,"No, the library is closed on Sunday."
+closure_sunday,does the library open on sunday,"No, the library is closed on Sunday."
+closure_sunday,sunday operating hours for library,"No, the library is closed on Sunday."
+closure_sunday,is it possible to go to the library on sunday,"No, the library is closed on Sunday."
+closure_sunday,does library close every sunday,"No, the library is closed on Sunday."
+closure_sunday,is sunday a rest day for the library,"No, the library is closed on Sunday."
+closure_public_holiday,is the library open on public holidays,"No, the library does not open on public holidays."
+closure_public_holiday,does the library operate on public holidays,"No, the library does not open on public holidays."
+closure_public_holiday,is the library closed during public holidays,"No, the library does not open on public holidays."
+closure_public_holiday,can i visit the library on a public holiday,"No, the library does not open on public holidays."
+closure_public_holiday,does library open on national holidays,"No, the library does not open on public holidays."
+closure_public_holiday,is the library available during public holidays,"No, the library does not open on public holidays."
+closure_public_holiday,does the library close for public holidays,"No, the library does not open on public holidays."
+closure_public_holiday,is public holiday an off day for the library,"No, the library does not open on public holidays."
+closure_public_holiday,will the library be open on a holiday,"No, the library does not open on public holidays."
+closure_public_holiday,does the library operate during festive holidays,"No, the library does not open on public holidays."
+closure_public_holiday,is the library closed on national holidays,"No, the library does not open on public holidays."
+closure_public_holiday,can i study in the library during a public holiday,"No, the library does not open on public holidays."
+discussion_room_booking,can i book a discussion room,"Yes, you can book a discussion room through the TARCApp under 'Facility Booking'."
+discussion_room_booking,how do i book a discussion room,"Yes, you can book a discussion room through the TARCApp under 'Facility Booking'."
+discussion_room_booking,is it possible to reserve a discussion room,"Yes, you can book a discussion room through the TARCApp under 'Facility Booking'."
+discussion_room_booking,how can i reserve a group study room,"Yes, you can book a discussion room through the TARCApp under 'Facility Booking'."
+discussion_room_booking,what's the process to book a discussion room,"Yes, you can book a discussion room through the TARCApp under 'Facility Booking'."
+discussion_room_booking,can students book discussion rooms,"Yes, you can book a discussion room through the TARCApp under 'Facility Booking'."
+discussion_room_booking,how do i reserve a room for group study,"Yes, you can book a discussion room through the TARCApp under 'Facility Booking'."
+discussion_room_booking,steps to book a discussion room,"Yes, you can book a discussion room through the TARCApp under 'Facility Booking'."
+discussion_room_booking,is discussion room booking available,"Yes, you can book a discussion room through the TARCApp under 'Facility Booking'."
+discussion_room_booking,how do i apply to book a room,"Yes, you can book a discussion room through the TARCApp under 'Facility Booking'."
+discussion_room_booking,can i reserve a room for a group project,"Yes, you can book a discussion room through the TARCApp under 'Facility Booking'."
+discussion_room_booking,how to secure a discussion room booking,"Yes, you can book a discussion room through the TARCApp under 'Facility Booking'."
+type_discussion_room,what types of discussion rooms are available,"There are three types of discussion rooms: a normal discussion room, a discussion room with a PC, and a presentation room with LCD projection and a whiteboard."
+type_discussion_room,what kind of discussion rooms do you have,"There are three types of discussion rooms: a normal discussion room, a discussion room with a PC, and a presentation room with LCD projection and a whiteboard."
+type_discussion_room,what discussion room options are there,"There are three types of discussion rooms: a normal discussion room, a discussion room with a PC, and a presentation room with LCD projection and a whiteboard."
+type_discussion_room,how many types of discussion rooms are there,"There are three types of discussion rooms: a normal discussion room, a discussion room with a PC, and a presentation room with LCD projection and a whiteboard."
+type_discussion_room,what are the different discussion room types,"There are three types of discussion rooms: a normal discussion room, a discussion room with a PC, and a presentation room with LCD projection and a whiteboard."
+type_discussion_room,can you list the types of discussion rooms,"There are three types of discussion rooms: a normal discussion room, a discussion room with a PC, and a presentation room with LCD projection and a whiteboard."
+type_discussion_room,what facilities do discussion rooms have,"There are three types of discussion rooms: a normal discussion room, a discussion room with a PC, and a presentation room with LCD projection and a whiteboard."
+type_discussion_room,is there a discussion room with a projector,"There are three types of discussion rooms: a normal discussion room, a discussion room with a PC, and a presentation room with LCD projection and a whiteboard."
+type_discussion_room,do you have a discussion room with a pc,"There are three types of discussion rooms: a normal discussion room, a discussion room with a PC, and a presentation room with LCD projection and a whiteboard."
+type_discussion_room,what's the difference between the discussion rooms,"There are three types of discussion rooms: a normal discussion room, a discussion room with a PC, and a presentation room with LCD projection and a whiteboard."
+type_discussion_room,is there a presentation room available,"There are three types of discussion rooms: a normal discussion room, a discussion room with a PC, and a presentation room with LCD projection and a whiteboard."
+type_discussion_room,what equipment is available in the discussion rooms,"There are three types of discussion rooms: a normal discussion room, a discussion room with a PC, and a presentation room with LCD projection and a whiteboard."
+discussion_pax,how many people can book a discussion room,A discussion room can be booked for a group of 2 to 10 people.
+discussion_pax,what's the pax range for a discussion room,A discussion room can be booked for a group of 2 to 10 people.
+discussion_pax,how many people are needed to book a discussion room,A discussion room can be booked for a group of 2 to 10 people.
+discussion_pax,what's the group size for discussion room booking,A discussion room can be booked for a group of 2 to 10 people.
+discussion_pax,minimum and maximum pax for a discussion room,A discussion room can be booked for a group of 2 to 10 people.
+discussion_pax,how many students can use a discussion room,A discussion room can be booked for a group of 2 to 10 people.
+discussion_pax,what's the capacity for a discussion room booking,A discussion room can be booked for a group of 2 to 10 people.
+discussion_pax,how many people allowed in a discussion room,A discussion room can be booked for a group of 2 to 10 people.
+discussion_pax,what's the pax requirement for discussion rooms,A discussion room can be booked for a group of 2 to 10 people.
+discussion_pax,how big can a discussion room group be,A discussion room can be booked for a group of 2 to 10 people.
+discussion_pax,how many people fit in a discussion room booking,A discussion room can be booked for a group of 2 to 10 people.
+discussion_pax,what's the group number required for discussion room,A discussion room can be booked for a group of 2 to 10 people.
+discussion_min_pax,what's the minimum pax to book a discussion room,A minimum of 2 people is required to book a discussion room.
+discussion_min_pax,how many people minimum needed to book a room,A minimum of 2 people is required to book a discussion room.
+discussion_min_pax,minimum number of people required for room booking,A minimum of 2 people is required to book a discussion room.
+discussion_min_pax,can i book a discussion room alone,A minimum of 2 people is required to book a discussion room.
+discussion_min_pax,what's the smallest group size allowed to book,A minimum of 2 people is required to book a discussion room.
+discussion_min_pax,minimum group size for discussion room,A minimum of 2 people is required to book a discussion room.
+discussion_min_pax,how many people at least to reserve a room,A minimum of 2 people is required to book a discussion room.
+discussion_min_pax,is there a minimum number of people to book,A minimum of 2 people is required to book a discussion room.
+discussion_min_pax,least amount of people needed to book a room,A minimum of 2 people is required to book a discussion room.
+discussion_min_pax,min pax required for discussion room,A minimum of 2 people is required to book a discussion room.
+discussion_min_pax,smallest group allowed for room booking,A minimum of 2 people is required to book a discussion room.
+discussion_min_pax,how many students minimum to book a discussion room,A minimum of 2 people is required to book a discussion room.
+discussion_max_pax,what's the maximum pax for a discussion room,A maximum of 10 people can book a discussion room.
+discussion_max_pax,how many people maximum can use a discussion room,A maximum of 10 people can book a discussion room.
+discussion_max_pax,max group size for discussion room booking,A maximum of 10 people can book a discussion room.
+discussion_max_pax,largest number of people allowed in a discussion room,A maximum of 10 people can book a discussion room.
+discussion_max_pax,how many people can fit in a discussion room,A maximum of 10 people can book a discussion room.
+discussion_max_pax,maximum capacity for discussion room,A maximum of 10 people can book a discussion room.
+discussion_max_pax,biggest group size allowed to book a room,A maximum of 10 people can book a discussion room.
+discussion_max_pax,how many students max per discussion room,A maximum of 10 people can book a discussion room.
+discussion_max_pax,upper limit of people for a discussion room,A maximum of 10 people can book a discussion room.
+discussion_max_pax,max number of people permitted in a room,A maximum of 10 people can book a discussion room.
+discussion_max_pax,how many people can join a discussion room booking,A maximum of 10 people can book a discussion room.
+discussion_max_pax,capacity limit for discussion rooms,A maximum of 10 people can book a discussion room.
+discussion_book_hour,how many hours can i book a discussion room for,You can book a discussion room for a minimum of  30 minutes and a maximum of 3 hours per booking.
+discussion_book_hour,what's the minimum booking duration for a room,You can book a discussion room for a minimum of  30 minutes and a maximum of 3 hours per booking.
+discussion_book_hour,what's the maximum hours allowed per room booking,You can book a discussion room for a minimum of  30 minutes and a maximum of 3 hours per booking.
+discussion_book_hour,how long can i reserve a discussion room,You can book a discussion room for a minimum of  30 minutes and a maximum of 3 hours per booking.
+discussion_book_hour,min and max hours for booking a room,You can book a discussion room for a minimum of  30 minutes and a maximum of 3 hours per booking.
+discussion_book_hour,how many hours am i allowed to book a room,You can book a discussion room for a minimum of  30 minutes and a maximum of 3 hours per booking.
+discussion_book_hour,duration limit for discussion room booking,You can book a discussion room for a minimum of  30 minutes and a maximum of 3 hours per booking.
+discussion_book_hour,how long is each room booking slot,You can book a discussion room for a minimum of  30 minutes and a maximum of 3 hours per booking.
+discussion_book_hour,what's the booking time limit for rooms,You can book a discussion room for a minimum of  30 minutes and a maximum of 3 hours per booking.
+discussion_book_hour,how many hours max can i use the room,You can book a discussion room for a minimum of  30 minutes and a maximum of 3 hours per booking.
+discussion_book_hour,shortest and longest time i can book a room,You can book a discussion room for a minimum of  30 minutes and a maximum of 3 hours per booking.
+discussion_book_hour,hour limit for reserving a discussion room,You can book a discussion room for a minimum of  30 minutes and a maximum of 3 hours per booking.
+individual_room_booking,can i book a individual room,"Yes, you can book a individual room through the TARCApp under 'Facility Booking'."
+individual_room_booking,how do i book a individual room,"Yes, you can book a individual room through the TARCApp under 'Facility Booking'."
+individual_room_booking,is it possible to reserve a individual room,"Yes, you can book a individual room through the TARCApp under 'Facility Booking'."
+individual_room_booking,how can i reserve a group study room,"Yes, you can book a individual room through the TARCApp under 'Facility Booking'."
+individual_room_booking,what's the process to book a individual room,"Yes, you can book a individual room through the TARCApp under 'Facility Booking'."
+individual_room_booking,can students book individual rooms,"Yes, you can book a individual room through the TARCApp under 'Facility Booking'."
+individual_room_booking,how do i reserve a room for group study,"Yes, you can book a individual room through the TARCApp under 'Facility Booking'."
+individual_room_booking,steps to book a individual room,"Yes, you can book a individual room through the TARCApp under 'Facility Booking'."
+individual_room_booking,is individual room booking available,"Yes, you can book a individual room through the TARCApp under 'Facility Booking'."
+individual_room_booking,how do i apply to book a room,"Yes, you can book a individual room through the TARCApp under 'Facility Booking'."
+individual_room_booking,can i reserve a room for a group project,"Yes, you can book a individual room through the TARCApp under 'Facility Booking'."
+individual_room_booking,how to secure a individual room booking,"Yes, you can book a individual room through the TARCApp under 'Facility Booking'."
+individual_room,how many people can use an individual room,Only 1 person is allowed to enter an individual study room at a time.
+individual_room,can more than one person use an individual study room,Only 1 person is allowed to enter an individual study room at a time.
+individual_room,is individual room for one person only,Only 1 person is allowed to enter an individual study room at a time.
+individual_room,how many students allowed in an individual room,Only 1 person is allowed to enter an individual study room at a time.
+individual_room,can i bring a friend into an individual room,Only 1 person is allowed to enter an individual study room at a time.
+individual_room,is the individual study room single occupancy,Only 1 person is allowed to enter an individual study room at a time.
+individual_room,how many people fit in an individual room,Only 1 person is allowed to enter an individual study room at a time.
+individual_room,capacity of the individual study room,Only 1 person is allowed to enter an individual study room at a time.
+individual_room,can two people share an individual room,Only 1 person is allowed to enter an individual study room at a time.
+individual_room,is individual room strictly for one person,Only 1 person is allowed to enter an individual study room at a time.
+individual_room,max occupancy for individual study room,Only 1 person is allowed to enter an individual study room at a time.
+individual_room,how many can enter the individual room at once,Only 1 person is allowed to enter an individual study room at a time.
+individual_book_hour,how many hours can i book a individual room for,You can book a individual room for a minimum of  30 minutes and a maximum of 3 hours per booking.
+individual_book_hour,what's the minimum booking duration for a room,You can book a individual room for a minimum of  30 minutes and a maximum of 3 hours per booking.
+individual_book_hour,what's the maximum hours allowed per room booking,You can book a individual room for a minimum of  30 minutes and a maximum of 3 hours per booking.
+individual_book_hour,how long can i reserve a individual room,You can book a individual room for a minimum of  30 minutes and a maximum of 3 hours per booking.
+individual_book_hour,min and max hours for booking a room,You can book a individual room for a minimum of  30 minutes and a maximum of 3 hours per booking.
+individual_book_hour,how many hours am i allowed to book a room,You can book a individual room for a minimum of  30 minutes and a maximum of 3 hours per booking.
+individual_book_hour,duration limit for individual room booking,You can book a individual room for a minimum of  30 minutes and a maximum of 3 hours per booking.
+individual_book_hour,how long is each room booking slot,You can book a individual room for a minimum of  30 minutes and a maximum of 3 hours per booking.
+individual_book_hour,what's the booking time limit for rooms,You can book a individual room for a minimum of  30 minutes and a maximum of 3 hours per booking.
+individual_book_hour,how many hours max can i use the room,You can book a individual room for a minimum of  30 minutes and a maximum of 3 hours per booking.
+individual_book_hour,shortest and longest time i can book a room,You can book a individual room for a minimum of  30 minutes and a maximum of 3 hours per booking.
+individual_book_hour,hour limit for reserving a individual room,You can book a individual room for a minimum of  30 minutes and a maximum of 3 hours per booking.
+wifi_connect,is there wifi in the library,"Yes, the library provides free wifi access throughout the building."
+wifi_connect,does the library have wifi,"Yes, the library provides free wifi access throughout the building."
+wifi_connect,can i connect to wifi in the library,"Yes, the library provides free wifi access throughout the building."
+wifi_connect,is wifi available throughout the library,"Yes, the library provides free wifi access throughout the building."
+wifi_connect,does the library provide internet access,"Yes, the library provides free wifi access throughout the building."
+wifi_connect,is there free wifi at the library,"Yes, the library provides free wifi access throughout the building."
+wifi_connect,can i access the internet in the library,"Yes, the library provides free wifi access throughout the building."
+wifi_connect,is wifi coverage available in the whole building,"Yes, the library provides free wifi access throughout the building."
+wifi_connect,does the library offer wireless internet,"Yes, the library provides free wifi access throughout the building."
+wifi_connect,is there internet connection in the library,"Yes, the library provides free wifi access throughout the building."
+wifi_connect,can students use wifi in the library,"Yes, the library provides free wifi access throughout the building."
+wifi_connect,is wifi accessible for library visitors,"Yes, the library provides free wifi access throughout the building."
+wifi_password,how do i connect to the library wifi,"To connect, select the 'TARUMT West' wifi network and log in using your student email and password."
+wifi_password,what's the wifi password,"To connect, select the 'TARUMT West' wifi network and log in using your student email and password."
+wifi_password,how do i login to the wifi network,"To connect, select the 'TARUMT West' wifi network and log in using your student email and password."
+wifi_password,what credentials do i use for wifi,"To connect, select the 'TARUMT West' wifi network and log in using your student email and password."
+wifi_password,how can i access the wifi network,"To connect, select the 'TARUMT West' wifi network and log in using your student email and password."
+wifi_password,what do i need to connect to wifi,"To connect, select the 'TARUMT West' wifi network and log in using your student email and password."
+wifi_password,how do i get wifi access here,"To connect, select the 'TARUMT West' wifi network and log in using your student email and password."
+wifi_password,what's the login for library wifi,"To connect, select the 'TARUMT West' wifi network and log in using your student email and password."
+wifi_password,how to join the wifi network,"To connect, select the 'TARUMT West' wifi network and log in using your student email and password."
+wifi_password,what account do i use to connect to wifi,"To connect, select the 'TARUMT West' wifi network and log in using your student email and password."
+wifi_password,steps to connect to the library wifi,"To connect, select the 'TARUMT West' wifi network and log in using your student email and password."
+wifi_password,how do i sign into the wifi,"To connect, select the 'TARUMT West' wifi network and log in using your student email and password."
+ask_borrow_book,can i borrow a book,"Yes, what type of book would you like to borrow?"
+ask_borrow_book,am i allowed to borrow a book,"Yes, what type of book would you like to borrow?"
+ask_borrow_book,is it possible for me to borrow a book,"Yes, what type of book would you like to borrow?"
+ask_borrow_book,can i loan a book from here,"Yes, what type of book would you like to borrow?"
+ask_borrow_book,may i borrow a book today,"Yes, what type of book would you like to borrow?"
+ask_borrow_book,am i able to borrow a book now,"Yes, what type of book would you like to borrow?"
+ask_borrow_book,is borrowing a book allowed for me,"Yes, what type of book would you like to borrow?"
+ask_borrow_book,can i take out a book from the library,"Yes, what type of book would you like to borrow?"
+ask_borrow_book,would i be able to borrow a book,"Yes, what type of book would you like to borrow?"
+ask_borrow_book,is it okay if i borrow a book,"Yes, what type of book would you like to borrow?"
+ask_borrow_book,can students borrow a book here,"Yes, what type of book would you like to borrow?"
+ask_borrow_book,am i eligible to borrow a book,"Yes, what type of book would you like to borrow?"
+institutional_repository,where can i find past year exam papers,"Past year exam papers, FYP reports and postgraduate theses are stored in the library's Institutional Repository. Log in with your student credentials on the IR portal to search and download."
+institutional_repository,how do i access the institutional repository,"Past year exam papers, FYP reports and postgraduate theses are stored in the library's Institutional Repository. Log in with your student credentials on the IR portal to search and download."
+institutional_repository,where are fyp reports stored,"Past year exam papers, FYP reports and postgraduate theses are stored in the library's Institutional Repository. Log in with your student credentials on the IR portal to search and download."
+institutional_repository,how do i download a thesis from the library,"Past year exam papers, FYP reports and postgraduate theses are stored in the library's Institutional Repository. Log in with your student credentials on the IR portal to search and download."
+institutional_repository,where can i find postgraduate dissertations online,"Past year exam papers, FYP reports and postgraduate theses are stored in the library's Institutional Repository. Log in with your student credentials on the IR portal to search and download."
+institutional_repository,how do i search for past exam papers,"Past year exam papers, FYP reports and postgraduate theses are stored in the library's Institutional Repository. Log in with your student credentials on the IR portal to search and download."
+institutional_repository,what is the institutional repository,"Past year exam papers, FYP reports and postgraduate theses are stored in the library's Institutional Repository. Log in with your student credentials on the IR portal to search and download."
+institutional_repository,where do i get final year project reports,"Past year exam papers, FYP reports and postgraduate theses are stored in the library's Institutional Repository. Log in with your student credentials on the IR portal to search and download."
+institutional_repository,how can i access past semester test papers,"Past year exam papers, FYP reports and postgraduate theses are stored in the library's Institutional Repository. Log in with your student credentials on the IR portal to search and download."
+institutional_repository,where is the thesis and dissertation collection,"Past year exam papers, FYP reports and postgraduate theses are stored in the library's Institutional Repository. Log in with your student credentials on the IR portal to search and download."
+institutional_repository,how do i log in to the institutional repository,"Past year exam papers, FYP reports and postgraduate theses are stored in the library's Institutional Repository. Log in with your student credentials on the IR portal to search and download."
+institutional_repository,where can i download previous exam questions,"Past year exam papers, FYP reports and postgraduate theses are stored in the library's Institutional Repository. Log in with your student credentials on the IR portal to search and download."
+complain_staff,i want to talk to a staff member,"Sure, let me connect you to a librarian. You can also reach us through the Ask a Librarian chat, email, or phone during office hours."
+complain_staff,can i speak to a real person,"Sure, let me connect you to a librarian. You can also reach us through the Ask a Librarian chat, email, or phone during office hours."
+complain_staff,connect me to a librarian,"Sure, let me connect you to a librarian. You can also reach us through the Ask a Librarian chat, email, or phone during office hours."
+complain_staff,i need help from an actual staff member,"Sure, let me connect you to a librarian. You can also reach us through the Ask a Librarian chat, email, or phone during office hours."
+complain_staff,can i speak to someone in person,"Sure, let me connect you to a librarian. You can also reach us through the Ask a Librarian chat, email, or phone during office hours."
+complain_staff,how do i contact library staff directly,"Sure, let me connect you to a librarian. You can also reach us through the Ask a Librarian chat, email, or phone during office hours."
+complain_staff,put me through to a human please,"Sure, let me connect you to a librarian. You can also reach us through the Ask a Librarian chat, email, or phone during office hours."
+complain_staff,the chatbot isn't helping i need a staff member,"Sure, let me connect you to a librarian. You can also reach us through the Ask a Librarian chat, email, or phone during office hours."
+complain_staff,can i email the library for help,"Sure, let me connect you to a librarian. You can also reach us through the Ask a Librarian chat, email, or phone during office hours."
+complain_staff,is there a phone number to call the library,"Sure, let me connect you to a librarian. You can also reach us through the Ask a Librarian chat, email, or phone during office hours."
+complain_staff,i want to file a complaint with staff,"Sure, let me connect you to a librarian. You can also reach us through the Ask a Librarian chat, email, or phone during office hours."
+complain_staff,how do i reach a librarian directly,"Sure, let me connect you to a librarian. You can also reach us through the Ask a Librarian chat, email, or phone during office hours."
+fallback,what is the meaning of life,"Sorry, I'm not sure how to help with that. I can only assist with library-related questions like borrowing, returning, fines, room booking and more. Could you rephrase your question?"
+fallback,can you recommend me some food,"Sorry, I'm not sure how to help with that. I can only assist with library-related questions like borrowing, returning, fines, room booking and more. Could you rephrase your question?"
+fallback,what's the weather today,"Sorry, I'm not sure how to help with that. I can only assist with library-related questions like borrowing, returning, fines, room booking and more. Could you rephrase your question?"
+fallback,can you help me with my assignment,"Sorry, I'm not sure how to help with that. I can only assist with library-related questions like borrowing, returning, fines, room booking and more. Could you rephrase your question?"
+fallback,sing me a song,"Sorry, I'm not sure how to help with that. I can only assist with library-related questions like borrowing, returning, fines, room booking and more. Could you rephrase your question?"
+fallback,what's your favorite color,"Sorry, I'm not sure how to help with that. I can only assist with library-related questions like borrowing, returning, fines, room booking and more. Could you rephrase your question?"
+fallback,tell me a joke,"Sorry, I'm not sure how to help with that. I can only assist with library-related questions like borrowing, returning, fines, room booking and more. Could you rephrase your question?"
+fallback,who is the president,"Sorry, I'm not sure how to help with that. I can only assist with library-related questions like borrowing, returning, fines, room booking and more. Could you rephrase your question?"
+fallback,can you do my homework for me,"Sorry, I'm not sure how to help with that. I can only assist with library-related questions like borrowing, returning, fines, room booking and more. Could you rephrase your question?"
+fallback,what's the capital of france,"Sorry, I'm not sure how to help with that. I can only assist with library-related questions like borrowing, returning, fines, room booking and more. Could you rephrase your question?"
+fallback,recommend me a movie to watch,"Sorry, I'm not sure how to help with that. I can only assist with library-related questions like borrowing, returning, fines, room booking and more. Could you rephrase your question?"
+fallback,translate this sentence for me,"Sorry, I'm not sure how to help with that. I can only assist with library-related questions like borrowing, returning, fines, room booking and more. Could you rephrase your question?"
+greeting,hi,Hi there! Welcome to the Library Chatbot. How can I help you today?
+greeting,hello,Hi there! Welcome to the Library Chatbot. How can I help you today?
+greeting,hey there,Hi there! Welcome to the Library Chatbot. How can I help you today?
+greeting,good morning,Hi there! Welcome to the Library Chatbot. How can I help you today?
+greeting,good afternoon,Hi there! Welcome to the Library Chatbot. How can I help you today?
+greeting,good evening,Hi there! Welcome to the Library Chatbot. How can I help you today?
+greeting,hey chatbot,Hi there! Welcome to the Library Chatbot. How can I help you today?
+greeting,hi there,Hi there! Welcome to the Library Chatbot. How can I help you today?
+greeting,hello chatbot,Hi there! Welcome to the Library Chatbot. How can I help you today?
+greeting,yo,Hi there! Welcome to the Library Chatbot. How can I help you today?
+greeting,morning,Hi there! Welcome to the Library Chatbot. How can I help you today?
+greeting,hiya,Hi there! Welcome to the Library Chatbot. How can I help you today?
+goodbye,bye,Goodbye! Feel free to come back anytime you need help.
+goodbye,goodbye,Goodbye! Feel free to come back anytime you need help.
+goodbye,see you later,Goodbye! Feel free to come back anytime you need help.
+goodbye,thanks bye,Goodbye! Feel free to come back anytime you need help.
+goodbye,that's all bye,Goodbye! Feel free to come back anytime you need help.
+goodbye,ok bye bye,Goodbye! Feel free to come back anytime you need help.
+goodbye,i'm done thanks,Goodbye! Feel free to come back anytime you need help.
+goodbye,gotta go bye,Goodbye! Feel free to come back anytime you need help.
+goodbye,cya,Goodbye! Feel free to come back anytime you need help.
+goodbye,that's it for now bye,Goodbye! Feel free to come back anytime you need help.
+goodbye,ok thanks that's all,Goodbye! Feel free to come back anytime you need help.
+goodbye,bye chatbot,Goodbye! Feel free to come back anytime you need help.
+thanks,thanks,You're welcome! Happy to help.
+thanks,thank you,You're welcome! Happy to help.
+thanks,thank you so much,You're welcome! Happy to help.
+thanks,thanks a lot,You're welcome! Happy to help.
+thanks,much appreciated,You're welcome! Happy to help.
+thanks,appreciate it,You're welcome! Happy to help.
+thanks,thanks for the help,You're welcome! Happy to help.
+thanks,great thanks,You're welcome! Happy to help.
+thanks,thank you very much,You're welcome! Happy to help.
+thanks,noted thanks,You're welcome! Happy to help.
+thanks,thanks for that,You're welcome! Happy to help.
+thanks,thank you for helping me,You're welcome! Happy to help.
+affirm,yes,"Great, let's proceed!"
+affirm,yeah,"Great, let's proceed!"
+affirm,sure,"Great, let's proceed!"
+affirm,correct,"Great, let's proceed!"
+affirm,that's right,"Great, let's proceed!"
+affirm,yes please,"Great, let's proceed!"
+affirm,confirm,"Great, let's proceed!"
+affirm,definitely,"Great, let's proceed!"
+affirm,ok yes,"Great, let's proceed!"
+affirm,sounds good,"Great, let's proceed!"
+affirm,yup,"Great, let's proceed!"
+affirm,go ahead,"Great, let's proceed!"
+deny,no,"No problem, what else can I help you with?"
+deny,nope,"No problem, what else can I help you with?"
+deny,not that one,"No problem, what else can I help you with?"
+deny,cancel that,"No problem, what else can I help you with?"
+deny,no thanks,"No problem, what else can I help you with?"
+deny,that's wrong,"No problem, what else can I help you with?"
+deny,not really,"No problem, what else can I help you with?"
+deny,no need,"No problem, what else can I help you with?"
+deny,skip this,"No problem, what else can I help you with?"
+deny,never mind,"No problem, what else can I help you with?"
+deny,that's not it,"No problem, what else can I help you with?"
+deny,no don't,"No problem, what else can I help you with?"
+postgraduate_lounge,who can use the postgraduate lounge,"The Postgraduate Lounge is reserved for postgraduate students and lecturers, and requires student or staff ID card access."
+postgraduate_lounge,how do i access the postgraduate lounge,"The Postgraduate Lounge is reserved for postgraduate students and lecturers, and requires student or staff ID card access."
+postgraduate_lounge,where is the postgraduate lounge located,"The Postgraduate Lounge is reserved for postgraduate students and lecturers, and requires student or staff ID card access."
+postgraduate_lounge,is the postgraduate lounge open to undergraduates,"The Postgraduate Lounge is reserved for postgraduate students and lecturers, and requires student or staff ID card access."
+postgraduate_lounge,what do i need to enter the postgraduate lounge,"The Postgraduate Lounge is reserved for postgraduate students and lecturers, and requires student or staff ID card access."
+postgraduate_lounge,can undergraduate students use the pg lounge,"The Postgraduate Lounge is reserved for postgraduate students and lecturers, and requires student or staff ID card access."
+postgraduate_lounge,how do i get into the postgraduate lounge,"The Postgraduate Lounge is reserved for postgraduate students and lecturers, and requires student or staff ID card access."
+postgraduate_lounge,is id card required for the postgraduate lounge,"The Postgraduate Lounge is reserved for postgraduate students and lecturers, and requires student or staff ID card access."
+postgraduate_lounge,who is allowed in the postgraduate lounge,"The Postgraduate Lounge is reserved for postgraduate students and lecturers, and requires student or staff ID card access."
+postgraduate_lounge,what facilities are in the postgraduate lounge,"The Postgraduate Lounge is reserved for postgraduate students and lecturers, and requires student or staff ID card access."
+postgraduate_lounge,is the postgraduate lounge for lecturers too,"The Postgraduate Lounge is reserved for postgraduate students and lecturers, and requires student or staff ID card access."
+postgraduate_lounge,access requirements for the postgraduate lounge,"The Postgraduate Lounge is reserved for postgraduate students and lecturers, and requires student or staff ID card access."
